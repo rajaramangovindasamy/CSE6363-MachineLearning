@@ -1,4 +1,4 @@
-%RAJARAMAN GOVINDASAMY%
+//RAJARAMAN GOVINDASAMY
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -61,4 +61,4 @@ public class bayesian_estimate1
 
 	}
 }
-%RAJARAMAN GOVINDASAMY%
+//RAJARAMAN GOVINDASAMY
