@@ -1,3 +1,4 @@
+//RAJARAMAN GOVINDASAMY
 import java.util.Random;
 
 public class frequentist_estimate2 {
